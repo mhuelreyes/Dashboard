@@ -36077,11 +36077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard.csproj",
+      "projectUniqueName": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\Dashboard.csproj",
       "projectName": "Dashboard",
-      "projectPath": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard.csproj",
+      "projectPath": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\Dashboard.csproj",
       "packagesPath": "C:\\Users\\limuelreyes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\obj\\",
+      "outputPath": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R8ZgE+vcycqbTCcfBtv32TFBWFCiumya2ZcPoIU4veDg+QJ34op45PqlfsCbRhS83a47sMkgIihW9m+2qEuY+A==",
+  "dgSpecHash": "DwiwvjqbuTWQzUGj0gHVaYU7e3GzLVt60W4HNzcEI7V8T+WASnoHADWkKA/SLHM7OWdCS1hMmhK1EVAax1gPOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard.csproj",
+  "projectFilePath": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\Dashboard.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\limuelreyes\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\limuelreyes\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.0\\microsoft.aspnetcore.authorization.7.0.0.nupkg.sha512",

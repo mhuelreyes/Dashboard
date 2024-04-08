@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>CE450922-94A7-4C6A-A37D-96CF4B265F79</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>DBC8BF8CC7322E473D1DCFB56C57B510875DFE28E7CD541644FF8500B8344AE3</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>CE450922-94A7-4C6A-A37D-96CF4B265F79_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>CE450922-94A7-4C6A-A37D-96CF4B265F79_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,28 +27,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-04-08T08:34:02.582</Modified>
+      <Modified>2024-04-08T08:58:01.527</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-04-08T08:34:02.126</Modified>
+      <Modified>2024-04-08T08:58:01.125</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Dashboard.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Dashboard.runtimeconfig.json">
       <PackagePath>Dashboard.runtimeconfig.json</PackagePath>
-      <Modified>2024-04-08T08:34:01.595</Modified>
+      <Modified>2024-04-08T08:56:35.718</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Dashboard.dll">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Dashboard.dll">
       <PackagePath>Dashboard.dll</PackagePath>
-      <Modified>2024-04-08T08:33:59.699</Modified>
+      <Modified>2024-04-08T08:58:00.319</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Dashboard.exe</PackagePath>
-      <Modified>2024-04-08T08:33:59.733</Modified>
+      <Modified>2024-04-08T08:58:00.334</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.4\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -986,9 +986,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Dashboard.deps.json">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Dashboard.deps.json">
       <PackagePath>Dashboard.deps.json</PackagePath>
-      <Modified>2024-04-08T08:34:02.392</Modified>
+      <Modified>2024-04-08T08:58:01.395</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.59\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1002,307 +1002,307 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-01-19T09:16:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-04-08T08:10:25.087</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\Dashboard.styles.css">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\Dashboard.styles.css">
       <PackagePath>wwwroot\Dashboard.styles.css</PackagePath>
       <Modified>2024-04-08T08:27:32.728</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\Dashboard.bundle.scp.css">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\Dashboard.bundle.scp.css">
       <PackagePath>wwwroot\Dashboard.bundle.scp.css</PackagePath>
       <Modified>2024-04-08T08:27:32.730</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\wwwroot\css\app.css">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
       <Modified>2024-04-08T08:10:24.671</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\wwwroot\css\bootstrap\bootstrap.min.css">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\wwwroot\css\bootstrap\bootstrap.min.css">
       <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css</PackagePath>
       <Modified>2024-04-08T08:10:24.677</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\wwwroot\css\bootstrap\bootstrap.min.css.map">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\wwwroot\css\bootstrap\bootstrap.min.css.map">
       <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css.map</PackagePath>
       <Modified>2024-04-08T08:10:24.750</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css">
       <PackagePath>wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css</PackagePath>
       <Modified>2024-04-08T08:10:25.016</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\wwwroot\css\open-iconic\font\fonts\open-iconic.eot">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\wwwroot\css\open-iconic\font\fonts\open-iconic.eot">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.eot</PackagePath>
       <Modified>2024-04-08T08:10:25.063</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\wwwroot\css\open-iconic\font\fonts\open-iconic.otf">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\wwwroot\css\open-iconic\font\fonts\open-iconic.otf">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.otf</PackagePath>
       <Modified>2024-04-08T08:10:25.069</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\wwwroot\css\open-iconic\font\fonts\open-iconic.svg">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\wwwroot\css\open-iconic\font\fonts\open-iconic.svg">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.svg</PackagePath>
       <Modified>2024-04-08T08:10:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.ttf</PackagePath>
       <Modified>2024-04-08T08:10:25.074</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\wwwroot\css\open-iconic\font\fonts\open-iconic.woff">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\wwwroot\css\open-iconic\font\fonts\open-iconic.woff">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.woff</PackagePath>
       <Modified>2024-04-08T08:10:25.075</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\wwwroot\css\open-iconic\FONT-LICENSE">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\wwwroot\css\open-iconic\FONT-LICENSE">
       <PackagePath>wwwroot\css\open-iconic\FONT-LICENSE</PackagePath>
       <Modified>2024-04-08T08:10:24.760</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\wwwroot\css\open-iconic\ICON-LICENSE">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\wwwroot\css\open-iconic\ICON-LICENSE">
       <PackagePath>wwwroot\css\open-iconic\ICON-LICENSE</PackagePath>
       <Modified>2024-04-08T08:10:24.770</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\wwwroot\css\open-iconic\README.md">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\wwwroot\css\open-iconic\README.md">
       <PackagePath>wwwroot\css\open-iconic\README.md</PackagePath>
       <Modified>2024-04-08T08:10:24.992</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\wwwroot\favicon.ico">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\wwwroot\favicon.ico">
       <PackagePath>wwwroot\favicon.ico</PackagePath>
       <Modified>2024-04-08T08:10:24.667</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\wwwroot\index.html">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
       <Modified>2024-04-08T08:10:24.669</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2024-04-08T08:27:35.619</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2024-04-08T08:27:35.634</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2024-04-08T08:27:35.654</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2024-04-08T08:27:35.692</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-04-08T08:27:35.810</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2024-04-08T08:10:25.085</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2024-04-08T08:27:35.863</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2024-04-08T08:27:36.232</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2024-04-08T08:27:36.243</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2024-04-08T08:27:36.252</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2024-04-08T08:27:36.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2024-04-08T08:27:36.340</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2024-04-08T08:27:35.964</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2024-04-08T08:27:35.967</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2024-04-08T08:27:36.006</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2024-04-08T08:27:35.977</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2024-04-08T08:27:35.987</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2024-04-08T08:27:35.943</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2024-04-08T08:27:35.946</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2024-04-08T08:27:35.961</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2024-04-08T08:27:35.950</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2024-04-08T08:27:35.953</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2024-04-08T08:27:35.882</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2024-04-08T08:27:35.886</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2024-04-08T08:27:35.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2024-04-08T08:27:35.895</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2024-04-08T08:27:35.909</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2024-04-08T08:27:35.912</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2024-04-08T08:27:35.915</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2024-04-08T08:27:35.940</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2024-04-08T08:27:35.919</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2024-04-08T08:27:35.933</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2024-04-08T08:27:36.089</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2024-04-08T08:27:36.100</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2024-04-08T08:27:36.106</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2024-04-08T08:27:36.118</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2024-04-08T08:27:36.140</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2024-04-08T08:27:36.051</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2024-04-08T08:27:36.054</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2024-04-08T08:27:36.058</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2024-04-08T08:27:36.068</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2024-04-08T08:27:36.080</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2024-04-08T08:27:36.010</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2024-04-08T08:27:36.017</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2024-04-08T08:27:36.032</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2024-04-08T08:27:36.036</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2024-04-08T08:27:36.042</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2024-04-08T08:27:36.146</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2024-04-08T08:27:36.160</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2024-04-08T08:27:36.171</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2024-04-08T08:27:36.184</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2024-04-08T08:27:36.219</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2024-04-08T08:27:35.953</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2024-04-08T08:27:35.963</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2024-04-08T08:27:35.982</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2024-04-08T08:27:36.010</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2024-04-08T08:27:36.060</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Shared\MainLayout.razor.css">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\Shared\MainLayout.razor.css">
       <PackagePath>Shared\MainLayout.razor.css</PackagePath>
       <Modified>2024-04-08T08:10:25.089</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Shared\NavMenu.razor.css">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\Shared\NavMenu.razor.css">
       <PackagePath>Shared\NavMenu.razor.css</PackagePath>
       <Modified>2024-04-08T08:10:25.104</Modified>
     </AppxPackagedFile>

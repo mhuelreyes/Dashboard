@@ -1,1 +1,1 @@
-C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard.csproj;x64
+C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\Dashboard.csproj;x64

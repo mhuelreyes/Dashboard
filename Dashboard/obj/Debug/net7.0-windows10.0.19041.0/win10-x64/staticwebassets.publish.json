@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vxYVlysaZgGPkKW/2PAj7XucOFmbzqTa0MUoJSheHtw=",
+  "Hash": "QXQMslpihpl7Xsp7/8VAr1mk7Xgfy0hOP7SxZyYL9Kc=",
   "Source": "Dashboard",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "Dashboard\\wwwroot",
       "Source": "Dashboard",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Dashboard.styles.css",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Dashboard.styles.css",
       "SourceId": "Dashboard",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "Dashboard.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Dashboard.styles.css"
+      "OriginalItemSpec": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Dashboard.styles.css"
     },
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Dashboard.bundle.scp.css",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Dashboard.bundle.scp.css",
       "SourceId": "Dashboard",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "Dashboard.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Dashboard.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Dashboard.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\css\\app.css",
       "SourceId": "Dashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Dashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Dashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "Dashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "Dashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "Dashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "Dashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "Dashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "Dashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "Dashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "Dashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "Dashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\favicon.ico",
       "SourceId": "Dashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\index.html",
       "SourceId": "Dashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\limuelreyes\\source\\repos\\MauiBlazor\\DashboardApp\\Dashboard\\Dashboard\\Dashboard\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index.html",
       "AssetKind": "All",
