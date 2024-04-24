@@ -1,7 +1,224 @@
 ﻿@page "/"
+@inherits IndexBase
+   
+    <MudPaper Elevation="0">
+         <MudText Typo="Typo.h5"><b>Today Sales</b></MudText>
+           <div style="display: flex; gap: 30px; padding: 10px; width: 80vw; ">
 
-<h1>Hello, world!</h1>
+        <MudCard Style="max-width: 250px; max-height: 90px; background-color: #FFFFFF; box-shadow: 5px 6px 8px 5px rgba(154, 77, 255, 0.2); width: 18vw; padding-left: 5px; padding-top: 2px;">
+                    <div style="display: flex; align-items: center;">
+                <MudIcon Icon="@Icons.Material.Filled.MonetizationOn" Class="mr-3" style="font-size: 4rem; color:blueviolet;"></MudIcon>
+                        <!-- Icon goes here -->
+                        <div style="display: flex; flex-direction: column;  line-height: 1; ">
+                            <MudCardContent>
+                        <MudText Typo="Typo.h6">@TodaySales_Column1_Data</MudText>
+                        <MudText Typo="Typo.body2">@TodaySales_Column1_Label</MudText>
+                            </MudCardContent>
+                        </div>
+                    </div>
+            </MudCard>
 
-Welcome to your new app.
+        <MudCard Style="max-width: 250px; max-height: 90px; background-color: #FFFFFF; box-shadow: 5px 6px 8px 5px rgba(255, 0, 0, 0.2); width: 18vw; padding-left: 5px; padding-top: 2px;">
+                <div style="display: flex; align-items: center;">
+                <MudIcon Icon="@Icons.Material.Filled.BedroomChild" Class="mr-3" style="font-size: 4rem; color:red;"></MudIcon>
+                    <!-- Icon goes here -->
+                    <div style="display: flex; flex-direction: column;  line-height: 1; ">
+                        <MudCardContent>
+                        <MudText Typo="Typo.h6">@TodaySales_Column2_Data</MudText>
+                        <MudText Typo="Typo.body2">@TodaySales_Column2_Label</MudText>
+                        </MudCardContent>
+                    </div>
+                </div>
+            </MudCard>
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+            <MudCard Style="max-width: 250px; max-height: 90px; background-color: #FFFFFF; box-shadow: 5px 6px 8px 5px rgba(0, 0, 255, 0.2); width: 18vw; padding-left: 5px; padding-top: 2px;">
+                    <div style="display: flex; align-items: center;">
+                <MudIcon Icon="@Icons.Material.Filled.Fastfood" Class="mr-3" style="font-size: 4rem; color:blue;"></MudIcon>
+                        <!-- Icon goes here -->
+                        <div style="display: flex; flex-direction: column;  line-height: 1; ">
+                            <MudCardContent>
+                        <MudText Typo="Typo.h6">@TodaySales_Column3_Data</MudText>
+                        <MudText Typo="Typo.body2">@TodaySales_Column3_Label</MudText>
+                            </MudCardContent>
+                        </div>
+                    </div>
+            </MudCard>
+
+        <MudCard Style="max-width: 250px; max-height: 90px; background-color: #FFFFFF; box-shadow: 5px 6px 8px 5px rgba(255, 219, 108, 0.2); width: 18vw; padding-left: 5px; padding-top: 2px;">
+                <div style="display: flex; align-items: center;">
+                <MudIcon Icon="@Icons.Material.Filled.ShoppingCart" Class="mr-3" style="font-size: 4rem; color:#ffe599;"></MudIcon>
+                    <!-- Icon goes here -->
+                    <div style="display: flex; flex-direction: column;  line-height: 1; ">
+                        <MudCardContent>
+                        <MudText Typo="Typo.h6">@TodaySales_Column4_Data</MudText>
+                        <MudText Typo="Typo.body2">@TodaySales_Column4_Label</MudText>
+                        </MudCardContent>
+                    </div>
+                </div>
+            </MudCard>
+
+        <MudCard Style="max-width: 250px; max-height: 90px; background-color: #FFFFFF; box-shadow: 5px 6px 8px 5px rgba(0, 255, 0, 0.2); width: 18vw; padding-left: 5px; padding-top: 2px;">
+                <div style="display: flex; align-items: center;">
+                <MudIcon Icon="@Icons.Material.Filled.MonetizationOn" Class="mr-3" style="font-size: 4rem; color:green;"></MudIcon>
+                    <!-- Icon goes here -->
+                    <div style="display: flex; flex-direction: column;  line-height: 1; ">
+                        <MudCardContent>
+                        <MudText Typo="Typo.h6">@TodaySales_Column5_Data</MudText>
+                        <MudText Typo="Typo.body2">@TodaySales_Column5_Label</MudText>
+                        </MudCardContent>
+                    </div>
+                </div>
+            </MudCard>
+              
+            </div>
+    </MudPaper>
+
+    <br>
+
+
+    <MudPaper Elevation="0">
+         <MudText Typo="Typo.h5"><b>@ThisYear Sales</b></MudText>
+          <div style="display: flex; gap: 30px; padding: 10px; width: 80vw; ">
+
+            <MudCard Style="max-width: 250px; max-height: 90px; background-color: #FFFFFF; box-shadow: 5px 6px 8px 5px rgba(154, 77, 255, 0.2); width: 18vw; padding-left: 5px; padding-top: 2px;">
+                <div style="display: flex; align-items: center;">
+                    <MudIcon Icon="@Icons.Material.Filled.MonetizationOn" Class="mr-3" style="font-size: 4rem; color:blueviolet;"></MudIcon>
+                    <!-- Icon goes here -->
+                    <div style="display: flex; flex-direction: column;  line-height: 1; ">
+                        <MudCardContent>
+                            <MudText Typo="Typo.h6">@ThisYearSales_Column1_Data</MudText>
+                            <MudText Typo="Typo.body2">@ThisYearSales_Column1_Label</MudText>
+                        </MudCardContent>
+                    </div>
+                </div>
+            </MudCard>
+
+            <MudCard Style="max-width: 250px; max-height: 90px; background-color: #FFFFFF; box-shadow: 5px 6px 8px 5px rgba(255, 0, 0, 0.2); width: 18vw; padding-left: 5px; padding-top: 2px;">
+                <div style="display: flex; align-items: center;">
+                    <MudIcon Icon="@Icons.Material.Filled.BedroomChild" Class="mr-3" style="font-size: 4rem; color:red;"></MudIcon>
+                    <!-- Icon goes here -->
+                    <div style="display: flex; flex-direction: column;  line-height: 1; ">
+                        <MudCardContent>
+                            <MudText Typo="Typo.h6">@ThisYearSales_Column2_Data</MudText>
+                            <MudText Typo="Typo.body2">@ThisYearSales_Column2_Label</MudText>
+                        </MudCardContent>
+                    </div>
+                </div>
+            </MudCard>
+
+            <MudCard Style="max-width: 250px; max-height: 90px; background-color: #FFFFFF; box-shadow: 5px 6px 8px 5px rgba(0, 0, 255, 0.2); width: 18vw; padding-left: 5px; padding-top: 2px;">
+                <div style="display: flex; align-items: center;">
+                    <MudIcon Icon="@Icons.Material.Filled.Fastfood" Class="mr-3" style="font-size: 4rem; color:blue;"></MudIcon>
+                    <!-- Icon goes here -->
+                    <div style="display: flex; flex-direction: column;  line-height: 1; ">
+                        <MudCardContent>
+                            <MudText Typo="Typo.h6">@ThisYearSales_Column3_Data</MudText>
+                            <MudText Typo="Typo.body2">@ThisYearSales_Column3_Label</MudText>
+                        </MudCardContent>
+                    </div>
+                </div>
+            </MudCard>
+
+            <MudCard Style="max-width: 250px; max-height: 90px; background-color: #FFFFFF; box-shadow: 5px 6px 8px 5px rgba(255, 219, 108, 0.2); width: 18vw; padding-left: 5px; padding-top: 2px;">
+                <div style="display: flex; align-items: center;">
+                    <MudIcon Icon="@Icons.Material.Filled.ShoppingCart" Class="mr-3" style="font-size: 4rem; color:#ffe599;"></MudIcon>
+                    <!-- Icon goes here -->
+                    <div style="display: flex; flex-direction: column;  line-height: 1; ">
+                        <MudCardContent>
+                            <MudText Typo="Typo.h6">@ThisYearSales_Column4_Data</MudText>
+                            <MudText Typo="Typo.body2">@ThisYearSales_Column4_Label</MudText>
+                        </MudCardContent>
+                    </div>
+                </div>
+            </MudCard>
+
+            <MudCard Style="max-width: 250px; max-height: 90px; background-color: #FFFFFF; box-shadow: 5px 6px 8px 5px rgba(0, 255, 0, 0.2); width: 18vw; padding-left: 5px; padding-top: 2px;">
+                <div style="display: flex; align-items: center;">
+                    <MudIcon Icon="@Icons.Material.Filled.MonetizationOn" Class="mr-3" style="font-size: 4rem; color:green;"></MudIcon>
+                    <!-- Icon goes here -->
+                    <div style="display: flex; flex-direction: column;  line-height: 1; ">
+                        <MudCardContent>
+                            <MudText Typo="Typo.h6">@ThisYearSales_Column5_Data</MudText>
+                            <MudText Typo="Typo.body2">@ThisYearSales_Column5_Label</MudText>
+                        </MudCardContent>
+                    </div>
+                </div>
+            </MudCard>
+
+        </div>
+    </MudPaper>
+
+
+    <br>
+
+    <MudPaper Elevation="0">
+        <MudText Typo="Typo.h5"><b>Room Status</b></MudText>
+        <div style="display: flex; gap: 30px; padding: 10px; width: 80vw; ">
+
+            <MudCard Style="max-width: 250px; max-height: 90px; background-color: #FFFFFF; box-shadow: 5px 6px 8px 5px rgba(154, 77, 255, 0.2); width: 18vw; padding-left: 5px; padding-top: 2px;">
+                <div style="display: flex; align-items: center;">
+                    <MudIcon Icon="@Icons.Material.Filled.BedroomChild" Class="mr-3" style="font-size: 4rem; color:blueviolet;"></MudIcon>
+                    <!-- Icon goes here -->
+                    <div style="display: flex; flex-direction: column;  line-height: 1; ">
+                        <MudCardContent>
+                            <MudText Typo="Typo.h6">@RoomStatus_Column1_Data</MudText>
+                            <MudText Typo="Typo.body2">@RoomStatus_Column1_Label</MudText>
+                        </MudCardContent>
+                    </div>
+                </div>
+            </MudCard>
+
+            <MudCard Style="max-width: 250px; max-height: 90px; background-color: #FFFFFF; box-shadow: 5px 6px 8px 5px rgba(255, 0, 0, 0.2); width: 18vw; padding-left: 5px; padding-top: 2px;">
+                <div style="display: flex; align-items: center;">
+                    <MudIcon Icon="@Icons.Material.Filled.DirtyLens" Class="mr-3" style="font-size: 4rem; color:red;"></MudIcon>
+                    <!-- Icon goes here -->
+                    <div style="display: flex; flex-direction: column;  line-height: 1; ">
+                        <MudCardContent>
+                            <MudText Typo="Typo.h6">@RoomStatus_Column2_Data</MudText>
+                            <MudText Typo="Typo.body2">@RoomStatus_Column2_Label</MudText>
+                        </MudCardContent>
+                    </div>
+                </div>
+            </MudCard>
+
+            <MudCard Style="max-width: 250px; max-height: 90px; background-color: #FFFFFF; box-shadow: 5px 6px 8px 5px rgba(0, 0, 255, 0.2); width: 18vw; padding-left: 5px; padding-top: 2px;">
+                <div style="display: flex; align-items: center;">
+                    <MudIcon Icon="@Icons.Material.Filled.Block" Class="mr-3" style="font-size: 4rem; color:blue;"></MudIcon>
+                    <!-- Icon goes here -->
+                    <div style="display: flex; flex-direction: column;  line-height: 1; ">
+                        <MudCardContent>
+                            <MudText Typo="Typo.h6">@RoomStatus_Column3_Data</MudText>
+                            <MudText Typo="Typo.body2">@RoomStatus_Column3_Label</MudText>
+                        </MudCardContent>
+                    </div>
+                </div>
+            </MudCard>
+
+            <MudCard Style="max-width: 250px; max-height: 90px; background-color: #FFFFFF; box-shadow: 5px 6px 8px 5px rgba(255, 219, 108, 0.2); width: 18vw; padding-left: 5px; padding-top: 2px;">
+                <div style="display: flex; align-items: center;">
+                    <MudIcon Icon="@Icons.Material.Filled.AutoGraph" Class="mr-3" style="font-size: 4rem; color:#ffe599;"></MudIcon>
+                    <!-- Icon goes here -->
+                    <div style="display: flex; flex-direction: column;  line-height: 1; ">
+                        <MudCardContent>
+                            <MudText Typo="Typo.h6">@RoomStatus_Column4_Data</MudText>
+                            <MudText Typo="Typo.body2">@RoomStatus_Column4_Label</MudText>
+                        </MudCardContent>
+                    </div>
+                </div>
+            </MudCard>
+
+            <MudCard Style="max-width: 250px; max-height: 90px; background-color: #FFFFFF; box-shadow: 5px 6px 8px 5px rgba(0, 255, 0, 0.2); width: 18vw; padding-left: 5px; padding-top: 2px;">
+                <div style="display: flex; align-items: center;">
+                    <MudIcon Icon="@Icons.Material.Filled.Handyman" Class="mr-3" style="font-size: 4rem; color:green;"></MudIcon>
+                    <!-- Icon goes here -->
+                    <div style="display: flex; flex-direction: column;  line-height: 1; ">
+                        <MudCardContent>
+                            <MudText Typo="Typo.h6">@RoomStatus_Column5_Data</MudText>
+                            <MudText Typo="Typo.body2">@RoomStatus_Column5_Label</MudText>
+                        </MudCardContent>
+                    </div>
+                </div>
+            </MudCard>
+
+        </div>
+    </MudPaper>

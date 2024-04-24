@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 using Dashboard.Data;
+using MudBlazor.Services;
 
 namespace Dashboard;
 
@@ -23,7 +24,8 @@ public static class MauiProgram
 #endif
 
 		builder.Services.AddSingleton<WeatherForecastService>();
+		builder.Services.AddMudServices();
 
-		return builder.Build();
+        return builder.Build();
 	}
 }

@@ -604,16 +604,16 @@
     <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.28\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.authorization\7.0.0\lib\net7.0\Microsoft.AspNetCore.Authorization.dll">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.authorization\7.0.1\lib\net7.0\Microsoft.AspNetCore.Authorization.dll">
       <PackagePath>Microsoft.AspNetCore.Authorization.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.components\7.0.0\lib\net7.0\Microsoft.AspNetCore.Components.dll">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.components\7.0.1\lib\net7.0\Microsoft.AspNetCore.Components.dll">
       <PackagePath>Microsoft.AspNetCore.Components.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.components.forms\7.0.0\lib\net7.0\Microsoft.AspNetCore.Components.Forms.dll">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.components.forms\7.0.1\lib\net7.0\Microsoft.AspNetCore.Components.Forms.dll">
       <PackagePath>Microsoft.AspNetCore.Components.Forms.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.components.web\7.0.0\lib\net7.0\Microsoft.AspNetCore.Components.Web.dll">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.components.web\7.0.1\lib\net7.0\Microsoft.AspNetCore.Components.Web.dll">
       <PackagePath>Microsoft.AspNetCore.Components.Web.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.components.webview\7.0.0\lib\net7.0\Microsoft.AspNetCore.Components.WebView.dll">
@@ -622,7 +622,7 @@
     <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.components.webview.maui\7.0.59\lib\net7.0-windows10.0.19041\Microsoft.AspNetCore.Components.WebView.Maui.dll">
       <PackagePath>Microsoft.AspNetCore.Components.WebView.Maui.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.metadata\7.0.0\lib\net7.0\Microsoft.AspNetCore.Metadata.dll">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.metadata\7.0.1\lib\net7.0\Microsoft.AspNetCore.Metadata.dll">
       <PackagePath>Microsoft.AspNetCore.Metadata.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
@@ -679,7 +679,7 @@
     <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.graphics.win2d\1.0.4\lib\net5.0-windows10.0.17763.0\Microsoft.Graphics.Canvas.Interop.dll">
       <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.jsinterop\7.0.0\lib\net7.0\Microsoft.JSInterop.dll">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.jsinterop\7.0.1\lib\net7.0\Microsoft.JSInterop.dll">
       <PackagePath>Microsoft.JSInterop.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.maui.graphics\7.0.59\lib\net7.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
@@ -730,6 +730,9 @@
     <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.windowsappsdk\1.2.221209.1\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\mudblazor\6.1.7\lib\net7.0\MudBlazor.dll">
+      <PackagePath>MudBlazor.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\system.io.pipelines\7.0.0\lib\net7.0\System.IO.Pipelines.dll">
       <PackagePath>System.IO.Pipelines.dll</PackagePath>
     </AppxPackagedFile>
@@ -753,6 +756,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\mudblazor\6.1.7\staticwebassets\MudBlazor.min.css">
+      <PackagePath>wwwroot\_content\MudBlazor\MudBlazor.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\mudblazor\6.1.7\staticwebassets\MudBlazor.min.js">
+      <PackagePath>wwwroot\_content\MudBlazor\MudBlazor.min.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\Dashboard.styles.css">
       <PackagePath>wwwroot\Dashboard.styles.css</PackagePath>

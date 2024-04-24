@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-04-08T08:58:01.527</Modified>
+      <Modified>2024-04-24T07:58:07.952</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-04-08T08:58:01.125</Modified>
+      <Modified>2024-04-24T07:58:07.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Dashboard.runtimeconfig.json">
       <PackagePath>Dashboard.runtimeconfig.json</PackagePath>
-      <Modified>2024-04-08T08:56:35.718</Modified>
+      <Modified>2024-04-23T05:52:32.785</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Dashboard.dll">
       <PackagePath>Dashboard.dll</PackagePath>
-      <Modified>2024-04-08T08:58:00.319</Modified>
+      <Modified>2024-04-24T07:58:06.886</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Dashboard.exe</PackagePath>
-      <Modified>2024-04-08T08:58:00.334</Modified>
+      <Modified>2024-04-24T07:58:06.895</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.4\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -806,21 +806,21 @@
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2022-11-16T01:34:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.authorization\7.0.0\lib\net7.0\Microsoft.AspNetCore.Authorization.dll">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.authorization\7.0.1\lib\net7.0\Microsoft.AspNetCore.Authorization.dll">
       <PackagePath>Microsoft.AspNetCore.Authorization.dll</PackagePath>
-      <Modified>2022-10-19T06:09:04.000</Modified>
+      <Modified>2022-11-19T00:55:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.components\7.0.0\lib\net7.0\Microsoft.AspNetCore.Components.dll">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.components\7.0.1\lib\net7.0\Microsoft.AspNetCore.Components.dll">
       <PackagePath>Microsoft.AspNetCore.Components.dll</PackagePath>
-      <Modified>2022-10-19T06:06:24.000</Modified>
+      <Modified>2022-11-19T00:53:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.components.forms\7.0.0\lib\net7.0\Microsoft.AspNetCore.Components.Forms.dll">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.components.forms\7.0.1\lib\net7.0\Microsoft.AspNetCore.Components.Forms.dll">
       <PackagePath>Microsoft.AspNetCore.Components.Forms.dll</PackagePath>
-      <Modified>2022-10-19T06:06:46.000</Modified>
+      <Modified>2022-11-19T00:55:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.components.web\7.0.0\lib\net7.0\Microsoft.AspNetCore.Components.Web.dll">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.components.web\7.0.1\lib\net7.0\Microsoft.AspNetCore.Components.Web.dll">
       <PackagePath>Microsoft.AspNetCore.Components.Web.dll</PackagePath>
-      <Modified>2022-10-19T06:08:20.000</Modified>
+      <Modified>2022-11-19T00:55:38.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.components.webview\7.0.0\lib\net7.0\Microsoft.AspNetCore.Components.WebView.dll">
       <PackagePath>Microsoft.AspNetCore.Components.WebView.dll</PackagePath>
@@ -830,9 +830,9 @@
       <PackagePath>Microsoft.AspNetCore.Components.WebView.Maui.dll</PackagePath>
       <Modified>2023-01-19T17:23:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.metadata\7.0.0\lib\net7.0\Microsoft.AspNetCore.Metadata.dll">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.aspnetcore.metadata\7.0.1\lib\net7.0\Microsoft.AspNetCore.Metadata.dll">
       <PackagePath>Microsoft.AspNetCore.Metadata.dll</PackagePath>
-      <Modified>2022-10-19T06:09:02.000</Modified>
+      <Modified>2022-11-19T00:55:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -906,9 +906,9 @@
       <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
       <Modified>2022-10-04T20:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.jsinterop\7.0.0\lib\net7.0\Microsoft.JSInterop.dll">
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.jsinterop\7.0.1\lib\net7.0\Microsoft.JSInterop.dll">
       <PackagePath>Microsoft.JSInterop.dll</PackagePath>
-      <Modified>2022-10-19T06:08:08.000</Modified>
+      <Modified>2022-11-19T00:53:56.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\microsoft.maui.graphics\7.0.59\lib\net7.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
       <PackagePath>Microsoft.Maui.Graphics.dll</PackagePath>
@@ -974,6 +974,10 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2022-11-08T19:31:22.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\mudblazor\6.1.7\lib\net7.0\MudBlazor.dll">
+      <PackagePath>MudBlazor.dll</PackagePath>
+      <Modified>2023-01-02T08:38:52.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\system.io.pipelines\7.0.0\lib\net7.0\System.IO.Pipelines.dll">
       <PackagePath>System.IO.Pipelines.dll</PackagePath>
       <Modified>2022-10-18T16:15:28.000</Modified>
@@ -988,7 +992,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Dashboard.deps.json">
       <PackagePath>Dashboard.deps.json</PackagePath>
-      <Modified>2024-04-08T08:58:01.395</Modified>
+      <Modified>2024-04-24T07:58:07.813</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.59\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1005,6 +1009,14 @@
     <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-04-08T08:10:25.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\mudblazor\6.1.7\staticwebassets\MudBlazor.min.css">
+      <PackagePath>wwwroot\_content\MudBlazor\MudBlazor.min.css</PackagePath>
+      <Modified>2023-01-02T08:38:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\limuelreyes\.nuget\packages\mudblazor\6.1.7\staticwebassets\MudBlazor.min.js">
+      <PackagePath>wwwroot\_content\MudBlazor\MudBlazor.min.js</PackagePath>
+      <Modified>2023-01-02T08:38:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\Dashboard.styles.css">
       <PackagePath>wwwroot\Dashboard.styles.css</PackagePath>
@@ -1068,7 +1080,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
-      <Modified>2024-04-08T08:10:24.669</Modified>
+      <Modified>2024-04-23T05:52:19.615</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\limuelreyes\source\repos\MauiBlazor\DashboardApp\Dashboard\Dashboard\Dashboard\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
